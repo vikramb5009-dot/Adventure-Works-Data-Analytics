@@ -59,6 +59,6 @@ Adventure-Works-Data-Analytics/
 └── Tableau/
     ├── README.md
     └── tableau-dashboard.png
-Author
+## Author
 
 Vikram
