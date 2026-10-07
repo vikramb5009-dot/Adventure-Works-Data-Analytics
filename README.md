@@ -46,7 +46,8 @@ Adventure-Works-Data-Analytics/
 │
 ├── Excel/
 │   ├── README.md
-│   └── ...
+│   ├── dashboard-overview.png
+│   └── detail-dashboard.png
 │
 ├── SQL/
 │   ├── README.md
@@ -56,7 +57,8 @@ Adventure-Works-Data-Analytics/
 │   ├── README.md
 │   └── powerbi-dashboard.png
 │
-└── Tableau/
-    ├── README.md
-    └── tableau-dashboard.png
-
+├── Tableau/
+│   ├── README.md
+│   └── tableau-dashboard.png
+│
+└── README.md
