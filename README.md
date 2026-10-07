@@ -1,6 +1,4 @@
-# P1359-Adventure-Works
-Interactive Excel sales dashboard analyzing sales, profit, customers, products, and regional performance.
-# Adventure Works Sales Dashboard
+#P1359-Adventure-Works Sales Dashboard
 
 Interactive Excel sales dashboard analyzing sales, profit,
 customers, products, and regional performance.
