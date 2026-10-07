@@ -1,31 +1,61 @@
-#P1359-Adventure-Works Sales Dashboard
+# Adventure Works Data Analytics
 
-Interactive Excel sales dashboard analyzing sales, profit,
-customers, products, and regional performance.
+An end-to-end data analytics project using Excel, SQL, Power BI, and Tableau to analyze sales, profit, customers, products, and regional performance.
 
-## Key Insights
+## Project Overview
+
+This project analyzes the Adventure Works dataset using multiple data analytics and visualization tools.
+
+### Tools Used
+
+- Excel
+- SQL
+- Power BI
+- Tableau
+
+## Key Business Insights
 
 - Total Sales: $29.36M
 - Total Profit: $12.08M
 - Profit Margin: 41.15%
-- 2013 recorded the strongest annual sales.
-- Q4 recorded the highest quarterly sales.
-- December recorded the highest monthly sales.
+- 2013 was the strongest year for sales
+- Q4 recorded the highest quarterly sales
+- December recorded the highest monthly sales
+- Mountain-200 was among the strongest profit-generating products
+- 50+ customers contributed the largest share of profit
+- Regional performance was analyzed to identify high-performing territories
 
-## Tools & Technologies
+## Project Sections
 
-- Microsoft Excel
-- PivotTables
-- PivotCharts
-- Power Query
-- Data Analysis
+### Excel
+Interactive Excel dashboard analyzing sales, profit, customers, products, and regional performance.
 
-## Dashboard Preview
+### SQL
+SQL analysis covering sales trends, yearly/monthly/quarterly performance, production costs, profit, regional performance, and business KPIs.
 
-### Main Dashboard
+### Power BI
+Interactive Power BI dashboard for business performance and KPI analysis.
 
-![Adventure Works Dashboard](dashboard-overview.png)
+### Tableau
+Interactive Tableau dashboard for sales, profit, product, customer, and regional analysis.
 
-### Detailed Dashboard
+## Repository Structure
 
-![Detailed Dashboard](detail-dashboard.png)
+```text
+Adventure-Works-Data-Analytics/
+│
+├── Excel/
+│   ├── README.md
+│   └── ...
+│
+├── SQL/
+│   ├── README.md
+│   └── adventure_work_sql.sql
+│
+├── PowerBI/
+│   ├── README.md
+│   └── powerbi-dashboard.png
+│
+└── Tableau/
+    ├── README.md
+    └── tableau-dashboard.png
